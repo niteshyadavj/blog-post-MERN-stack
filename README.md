@@ -1,5 +1,9 @@
 # blog-post-MERN-stack
-created using MERN stack languages
-CRUD operation using react
-database using mongoDB atlas
-routes using node/express
+
+1. Created using MERN stack languages,
+
+2.CRUD operation using react,
+
+3. database using MongoDB atlas,
+
+4. Routes using node/express.
